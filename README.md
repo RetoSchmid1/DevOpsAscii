@@ -8,6 +8,15 @@ https://textik.com
 
 ## Ascii Art
 <pre>
+
+SmartCar is super toll und umweltfreundlich! Wir freuen uns! 
+  ______
+ /|_||_\`.__
+(   _    _ _\
+=`-(_)--(_)-'  
+
+
+
                                                                   |                                  
          |                                                       / \                                 
         / \                                                    -/  |                                 
